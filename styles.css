@@ -1,0 +1,13 @@
+/*
+Este archivo styles.css se usa para estilos muy específicos.
+Para la mayoría del diseño, estamos usando clases de Tailwind CSS directamente en el HTML.
+*/
+
+/* Estilo para el cuerpo, asegurando que el contenido fluya bien */
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Cualquier estilo global o personalizado no cubierto por Tailwind se agregaría aquí. */
