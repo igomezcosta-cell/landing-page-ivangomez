@@ -4,6 +4,7 @@ console.log("¡La página de Iván Gómez está cargada y lista para el breakthr
 
 document.addEventListener('DOMContentLoaded', () => {
     // Manejo del scroll suave para los enlaces internos (como el CTA del header)
+    // ESTE CÓDIGO REEMPLAZA LA FUNCIONALIDAD DE TU GOOGLE SITE, haciéndola más fluida y rápida.
     const smoothScrollLinks = document.querySelectorAll('a[href^="#"]');
 
     smoothScrollLinks.forEach(link => {
